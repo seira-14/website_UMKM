@@ -30,9 +30,9 @@ website_UMKM/
 ```
 
 ## Cara Menjalankan
-1. Download atau clone repository ini.
-2. Buka folder project.
-3. Jalankan file `website_umkm.html` menggunakan browser.
+1. Download file `website_umkm.html` .
+2. ketik ctrl + o di browser.
+3. pilih file `website_umkm.html` .
 4. Website siap digunakan.
 
 ## Tujuan Project
